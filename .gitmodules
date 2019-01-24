@@ -1,3 +1,3 @@
-[submodule "AutoAligner"]
-	path = AutoAligner
-	url = https://github.com/kavitharaju/AutoAligner
+[submodule "auto-aligner"]
+	path = auto-aligner
+	url = https://github.com/kavitharaju/auto-aligner
